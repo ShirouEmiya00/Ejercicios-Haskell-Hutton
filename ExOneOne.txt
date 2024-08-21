@@ -1,0 +1,13 @@
+ExOneOne.hs
+
+{- Give another possible calculation for the result of double (double 2). -}
+
+double (double 2)
+= {apliying the outer double}
+
+double 2 + double 2
+= {apliying the second double}
+
+4 + 4
+
+(2 + 2) + 4
